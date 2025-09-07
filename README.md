@@ -1,5 +1,4 @@
-# Xnews Application
-
+# QMoney
 
 
 ## Overview
